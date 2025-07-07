@@ -1,0 +1,13 @@
+# Calculadora em Linguagem C
+
+Este projeto foi desenvolvido como parte do desafio da DIO (Digital Innovation One) para praticar os conceitos do módulo 3.
+
+## Funcionalidades
+- Operações básicas: soma, subtração, multiplicação e divisão
+- Interface via terminal
+- Código modular (separado em arquivos `.c` e `.h`)
+
+## Como compilar e executar
+```bash
+gcc main.c funcoes.c -o calculadora
+./calculadora
